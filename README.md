@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/upy3guyy52eptrol/branch/main?svg=true)](https://ci.appveyor.com/project/AleksandrKudyakov/ra-hooks-context-usejsonfetch/branch/main)
